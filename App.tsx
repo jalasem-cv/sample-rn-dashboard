@@ -20,6 +20,7 @@ const Container = styled.SafeAreaView`
 `;
 const ScrollContainer = styled.ScrollView`
   flex: 1;
+  padding-top: 20px;
 `;
 const Title = styled.Text`
   color: white;

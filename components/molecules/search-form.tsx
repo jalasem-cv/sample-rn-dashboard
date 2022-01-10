@@ -8,7 +8,7 @@ const SearchContainer = styled.View`
   margin-horizontal: 20px;
   border-radius: 15px;
   padding-horizontal: 10px;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
 `;
 const SearchField = styled.TextInput`
   flex: 1;

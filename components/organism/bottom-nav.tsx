@@ -7,6 +7,7 @@ const Container = styled.View`
   justify-content: space-around;
   padding-horizontal: 20px;
   padding-bottom: 20px;
+  padding-top: 10px;
 `;
 
 export default function BottomNav() {
