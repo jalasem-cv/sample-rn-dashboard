@@ -95,7 +95,7 @@ const stats = [
 export default function App() {
   return (
     <Container>
-      <ExpoStatusBar style="auto" />
+      <ExpoStatusBar style="light" />
       <Header>
         <MaterialIcons name="waves" size={24} color="white" />
         <AvatarContainer>
